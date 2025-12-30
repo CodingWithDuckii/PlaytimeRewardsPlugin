@@ -1,0 +1,7 @@
+name: PlaytimeRewards
+version: 1.1
+main: me.duckii.playtime.PlaytimeRewards
+api-version: 1.20
+commands:
+  playtime:
+    description: Earn Rewards By Playtime

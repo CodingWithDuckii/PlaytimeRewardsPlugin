@@ -1,0 +1,16 @@
+rewards:
+  5:
+    material: DIAMOND_PICKAXE
+    amount: 1
+  10:
+    material: IRON_PICKAXE
+    amount: 1
+  15:
+    material: GOLD_INGOT
+    amount: 1
+  30:
+    material: DIAMOND
+    amount: 1
+  60:
+    material: DIAMOND_SWORD
+    amount: 1
